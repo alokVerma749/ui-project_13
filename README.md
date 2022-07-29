@@ -79,6 +79,7 @@ This project is presently deployed in **Netlify Service**
 
 - ✔ HTML 5
 - ✔ CSS 3
+  - ✔ Flexbox
   - ✔ CSS Selectors
   - ✔ Background property 
   - ✔ Box Shadow
